@@ -40,7 +40,7 @@ export const properties = [
 
     ],
     highlights: [
-      "Selling Prime 1/4 Acre Plots",
+      "Selling Prime 1/8 Acre Plots",
       "Gated community concept with boundary wall surrounding property",
       "Fresh borehole water on site",
       "Electricity ready for connection",
