@@ -22,7 +22,7 @@ export const properties = [
     slug:"diani-airstrip-rd",
     name: "Diani Airstrip Rd",
     location: "Ukunda, Diani",
-    price: "2,100,000", 
+    price: "2,500,000", 
     area: "1/8 ",
     contact: "010 2106218",
     description:
@@ -56,7 +56,7 @@ export const properties = [
     slug:"behind-manyatta-club",
     name: "Behind Manyatta Club",
     location: "Ukunda, Diani",
-    price: "2,000,000", 
+    price: "2,250,000", 
     area: "1/8  ",
     contact: "010 2106218",
     description:
