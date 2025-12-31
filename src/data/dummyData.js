@@ -26,7 +26,7 @@ export const properties = [
     area: "1/8 ",
     contact: "010 2106218",
     description:
-      "Just 7-8 minutes from Diani Airstrip, this walled property offers 1/4 acre plots in a secure, gated community. Enjoy privacy, security, and easy access to shopping, dining, and the beach! Perfect for your dream home or a smart investment. Don't miss this chance to own land in a vibrant, well-connected location!",
+      "Just 7-8 minutes from Diani Airstrip, this walled property offers 1/8 acre plots in a secure, gated community. Enjoy privacy, security, and easy access to shopping, dining, and the beach! Perfect for your dream home or a smart investment. Don't miss this chance to own land in a vibrant, well-connected location!",
     MainImage: 
       "/images/New folder/Airstrip Rd/IMG-20240926-WA0021.jpg",
     images:[
