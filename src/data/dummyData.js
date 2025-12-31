@@ -23,7 +23,7 @@ export const properties = [
     name: "Diani Airstrip Rd",
     location: "Ukunda, Diani",
     price: "2,100,000", 
-    area: "1/4  ",
+    area: "1/8 ",
     contact: "010 2106218",
     description:
       "Just 7-8 minutes from Diani Airstrip, this walled property offers 1/4 acre plots in a secure, gated community. Enjoy privacy, security, and easy access to shopping, dining, and the beach! Perfect for your dream home or a smart investment. Don't miss this chance to own land in a vibrant, well-connected location!",
